@@ -10,3 +10,10 @@ This will serve as a list of questions that we will ask the client:
 * What level of accuracy or other performance metrics (precision, recall) are expected?
 * Is there a tolerance for false positives or false negatives, and if so, how much?
 * are there any previous solutions that have been tried? 
+
+
+Squirrels are dying
+new disease 
+citizen scienteists cite squirrels
+prioritize recall consider f1
+seems to be patterns in fur color ( grey is good)
