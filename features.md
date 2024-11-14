@@ -3,7 +3,7 @@
 | Color notes        | Age                                        | Above Ground Sighter Measurement  (need to change false to 0) | Unique Squirrel ID      |   |
 | Specific Location  | Primary Fur Color                          | AWND                                                          | Hectare                 |   |
 | Other Activities   | Highlight Fur Color                        | PRCP                                                          | Date                    |   |
-| Other Interactions | Combination of Primary and Highlight Color | TMAX                                                          | Hectare Squirrel Number |   |
+| Other Interactions | Combination of Primary and Highlight Color | TMAX                                                          | |   |
 |                    | Location                                   | TMIN                                                          | Lat/Long                |   |
 |                    | Running                                    | WDF2                                                          |                         |   |
 |                    | Chasing                                    | WDF5                                                          |                         |   |
